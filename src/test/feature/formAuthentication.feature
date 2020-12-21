@@ -5,7 +5,7 @@ Background:
   When I click the Form Authentication Link
   And I ll be directed to the Form Authentication page
 
-  @valid_Password
+  @Invalid_Password
   Scenario: Validate form Authentication with invalid username and valid password
     And I enter the Username as "tomsmith"
     And I enter the Password as "shss"

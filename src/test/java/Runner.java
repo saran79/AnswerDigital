@@ -7,4 +7,3 @@ import org.junit.runner.RunWith;
 public class Runner {
 
 }
-//        plugin ={"com.cucumber.listener.ExtentCucumberFormatter:target/TSR/tsr.html"}
